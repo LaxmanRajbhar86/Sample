@@ -6,7 +6,9 @@ internal class Program
     {
         Console.WriteLine("Hello, World!");
         int s = 45;
+string name="Laxman Rajbhar";
         Console.WriteLine($"{s:C2}"); 
+
                
         Console.ReadLine();
 
