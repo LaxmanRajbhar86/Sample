@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VpN/lESYm0s5U2JG82Pw8BRHFkc+Qd9jYJGC+ebzw8WdS0aqmMZJWlE9xleFGxKelq8dEsRxQFqxctsanXa33g==",
+  "dgSpecHash": "Pra1K6/ebr8Cym49DWFb49pZwVYTvIQ/Es1zYNvj1kqfOuCxwhVWBoCTzAIkSIX54zcVssan4mlj6FNVRpAujQ==",
   "success": true,
-  "projectFilePath": "C:\\Laxman\\.net\\hello\\hello.csproj",
+  "projectFilePath": "C:\\Laxman\\.net\\Sample\\hello.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

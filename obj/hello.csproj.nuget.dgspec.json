@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Laxman\\.net\\hello\\hello.csproj": {}
+    "C:\\Laxman\\.net\\Sample\\hello.csproj": {}
   },
   "projects": {
-    "C:\\Laxman\\.net\\hello\\hello.csproj": {
+    "C:\\Laxman\\.net\\Sample\\hello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Laxman\\.net\\hello\\hello.csproj",
+        "projectUniqueName": "C:\\Laxman\\.net\\Sample\\hello.csproj",
         "projectName": "hello",
-        "projectPath": "C:\\Laxman\\.net\\hello\\hello.csproj",
+        "projectPath": "C:\\Laxman\\.net\\Sample\\hello.csproj",
         "packagesPath": "C:\\Users\\laxma\\.nuget\\packages\\",
-        "outputPath": "C:\\Laxman\\.net\\hello\\obj\\",
+        "outputPath": "C:\\Laxman\\.net\\Sample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laxma\\AppData\\Roaming\\NuGet\\NuGet.Config",
